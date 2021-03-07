@@ -15,6 +15,7 @@ function ClientProjectsPage() {
           </li>
         ))}
       </ul>
+      <button>Load Project A</button>
     </div>
   )
 }
